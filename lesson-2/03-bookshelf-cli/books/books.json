@@ -1,0 +1,32 @@
+[
+  {
+    "id": "u9kgwNWGi3uUUwh0b8V49",
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke"
+  },
+  {
+    "id": "YxhM4QDxPeA3SmPHcEZPJ",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolas Bevacqua"
+  },
+  {
+    "id": "ck89qe3HriUDHe09TBoJ8",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "Op8ApLTY0-Vn2cR0vDIwG",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson"
+  },
+  {
+    "title": "Story about tractor",
+    "author": "John Deere",
+    "id": "05eee0ea-ba6c-4d1a-9b48-331ac17fde19"
+  }
+]
